@@ -3,6 +3,7 @@
 - [中文社区](https://cnodejs.org/)
 - [nodeschool](http://nodeschool.io/zh-cn/)
 - [中文API](http://nodeapi.ucdok.com/api/)
+- [新手入门](http://www.nodebeginner.org/index-zh-cn.html)
 
 
 # Package

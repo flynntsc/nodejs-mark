@@ -20,9 +20,11 @@
 - [chai](http://chaijs.com/) 全栈的断言库
 - [supertest](https://github.com/tj/supertest) 专门用来配合 express进行集成测试
 - [nodemon](https://github.com/remy/nodemon) 调式使用，可自动重启应用
+- [request](https://github.com/request/request) 简易http请求客户端
+- [node-inspector](https://github.com/node-inspector/node-inspector) node调试开发工具
 
 
 # Demos
-
+- [新手入门代码实例](demos/start)
 - [基础小爬虫](demos/reptile)
 - [async控制并发](demos/async)

@@ -22,6 +22,7 @@
 - [nodemon](https://github.com/remy/nodemon) 调式使用，可自动重启应用
 - [request](https://github.com/request/request) 简易http请求客户端
 - [node-inspector](https://github.com/node-inspector/node-inspector) node调试开发工具
+- [bluebird](https://github.com/petkaantonov/bluebird) Promise库
 
 
 # Demos

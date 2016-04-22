@@ -23,6 +23,7 @@
 - [request](https://github.com/request/request) 简易http请求客户端
 - [node-inspector](https://github.com/node-inspector/node-inspector) node调试开发工具
 - [bluebird](https://github.com/petkaantonov/bluebird) Promise库
+- [through2](https://github.com/rvagg/through2) Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
 
 
 # Demos

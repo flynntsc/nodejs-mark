@@ -26,6 +26,13 @@
 - [through2](https://github.com/rvagg/through2) Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
 
 
+# Tips
+
+```
+console.dir(data, {depth: null}) // 打印查看
+```
+
+
 # Demos
 - [新手入门代码实例](demos/start)
 - [基础小爬虫](demos/reptile)

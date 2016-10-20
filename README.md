@@ -32,6 +32,10 @@
 console.dir(data, {depth: null}) // 打印查看
 ```
 
+```
+node --harmony-async-await ***.js
+```
+
 
 # Demos
 - [新手入门代码实例](demos/start)

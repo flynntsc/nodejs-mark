@@ -75,6 +75,8 @@ npm install taco --global === yarn global add taco
 - [node-inspector](https://github.com/node-inspector/node-inspector) node调试开发工具
 - [bluebird](https://github.com/petkaantonov/bluebird) Promise库
 - [through2](https://github.com/rvagg/through2) Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
+- [rimraf](https://github.com/isaacs/rimraf) 可深度删除fs模块
+- [mkdirp](https://github.com/substack/node-mkdirp) 可深度创建fs模块
 
 
 # Tips

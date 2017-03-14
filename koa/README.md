@@ -56,6 +56,7 @@
 | Name | Description | Supports V2 |
 | :------ | :------ | :------: |
 |[koa-views](https://github.com/queckezz/koa-views) | 渲染模板引擎所需 | ✓ |
+| [koa-view](https://github.com/d-band/koa-view) | 封装了nunjucks模板引擎直接使用（个人推荐） | ✓ |
 |[koa-ejs](https://github.com/dead-horse/koa-ejs) | 封装了ejs模板引擎直接使用 | ✓ |
 
 ## ervices

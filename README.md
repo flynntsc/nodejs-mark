@@ -36,7 +36,7 @@ npm version major => x+1 && y=0 && z=0
 - `npm prune`
  - 会拿出这些 package，并移除那些没有手动加到 package.json 中或没有使用 --save 标志安装的 package
 
-# NPM & YARN
+# npm VS yarn
 
 ```
 npm install === yarn
@@ -73,10 +73,13 @@ npm install taco --global === yarn global add taco
 - [nodemon](https://github.com/remy/nodemon) 调式使用，可自动重启应用
 - [request](https://github.com/request/request) 简易http请求客户端
 - [node-inspector](https://github.com/node-inspector/node-inspector) node调试开发工具
-- [bluebird](https://github.com/petkaantonov/bluebird) Promise库
+- [bluebird](https://github.com/petkaantonov/bluebird) Promise库，性能优于目前原生
 - [through2](https://github.com/rvagg/through2) Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
-- [rimraf](https://github.com/isaacs/rimraf) 可深度删除fs模块
+- [del](https://github.com/sindresorhus/del) 封装[rimraf](https://github.com/isaacs/rimraf)的删除文件模块
 - [mkdirp](https://github.com/substack/node-mkdirp) 可深度创建fs模块
+- [sha1](https://github.com/pvorb/node-sha1) 密码加密 - 简单快速不够安全
+- [bcryptjs](https://github.com/dcodeIO/bcrypt.js) 密码加密 - 更成熟可靠
+- [scrypt](https://github.com/barrysteyn/node-scrypt) 密码加密 - 更新更有潜力
 
 
 # Tips

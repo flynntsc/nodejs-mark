@@ -80,6 +80,7 @@ npm install taco --global === yarn global add taco
 - [sha1](https://github.com/pvorb/node-sha1) 密码加密 - 简单快速不够安全
 - [bcryptjs](https://github.com/dcodeIO/bcrypt.js) 密码加密 - 更成熟可靠
 - [scrypt](https://github.com/barrysteyn/node-scrypt) 密码加密 - 更新更有潜力
+- [validator](https://github.com/chriso/validator.js) 丰富的字符串校验
 
 
 # Tips

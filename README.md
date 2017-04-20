@@ -50,6 +50,7 @@ npm install taco --global === yarn global add taco
 
 # Mark
 
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)  node.js安装包与资料收集
 - [中文社区](https://cnodejs.org/)
 - [nodeschool](http://nodeschool.io/zh-cn/)
 - [中文API](http://nodeapi.ucdok.com/api/)

@@ -97,6 +97,7 @@ npm version major => x+1 && y=0 && z=0
 - [bcryptjs](https://github.com/dcodeIO/bcrypt.js) 密码加密 - 更成熟可靠
 - [scrypt](https://github.com/barrysteyn/node-scrypt) 密码加密 - 更新更有潜力
 - [validator](https://github.com/chriso/validator.js) 丰富的字符串校验
+- [fs-extra](https://www.npmjs.com/package/fs-extra)更友好的fs扩展
 
 
 # Tips
